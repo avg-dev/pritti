@@ -42,7 +42,7 @@ If you find our code or paper useful, please cite
 @article{Tze2025PrITTI,
     author    = {Tze, Christina Ourania and Dauner, Daniel and Liao, Yiyi and Tsishkou, Dzmitry and Geiger, Andreas},
     title     = {PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Scenes},
-    journal = {arXiv preprint arXiv:},
+    journal   = {arXiv preprint arXiv:2506.19117},
     year      = {2025},
 }
 ```
