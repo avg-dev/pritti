@@ -14,7 +14,7 @@
 
   </p>
 
-  <h3 align="center"><a href="https://drive.google.com/file/d/1Q7KgGbynzcIEyFJV1I17HgrYz6xrOwRJ/view?usp=sharing">Paper</a> | <a href="https://raniatze.github.io/pritti_page/">Project Page</a>  </h3>
+  <h3 align="center"><a href="http://arxiv.org/abs/2506.19117">Paper</a> | <a href="https://raniatze.github.io/pritti_page/">Project Page</a>  </h3>
   <div align="center"></div>
 </p>
 
